@@ -1,4 +1,7 @@
-#            VERSION 1.0.0 IS HERE!
+# THIS IS NOT DONE, IT WILL HAVE DAILY UPDATES!
+-----------------------------------------------
+
+##            VERSION 1.0.0 IS HERE!
 ### whats new?
 - Added: IP Lookup
 - Added: Token Brute Force
