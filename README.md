@@ -1,6 +1,5 @@
 #            VERSION 1.0.0 IS HERE!
 ### whats new?
-- Version: 1.0.0
 - Added: IP Lookup
 - Added: Token Brute Force
 - Added: Webhook Spammer
@@ -46,6 +45,4 @@ By using Lean, you agree that you hold responsibility and accountability of any 
 
 # Contact
 
-Discord: * @275n
-
-Server: * discord.gg/clod
+* [Discord Server](https://discord.gg/qmm38vE6)
