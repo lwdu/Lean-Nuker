@@ -19,33 +19,33 @@
 
 # HOW TO INSTALL
 #### 1st - Installation:
-    Launch the ACIO.bat file. (You will only have to launch it.) 
+    Launch the "Lean.bat" file. 
 
 #### 2st - Installation (Manual installation)
-    $ git clone https://github.com/knnb/ACIO-NUKER.git
-    Launch the ACIO.bat file.
+    $ git clone https://github.com/lwdu/Lean-Nuker.git
+    Launch the "Lean.bat" file.
 
 
 ---------------
 
 ## Additional Informations
 General Informations:
-- If you have a problem, [Join Our Discord](https://discord.gg/clod)
-- If you find any error or bugs, contact me on Discord: @_ny2
+- If you have a problem, [Join Our Discord](https://discord.gg/qmm38vE6)
+- If you find any error or bugs, contact me on Discord: @275n
 
 
 ---------------
 
 # Disclaimer
 
-|Acio was made for Educational purposes|
+|Lean was made for Educational purposes|
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
-By using Acio, you agree that you hold responsibility and accountability of any consequences caused by your actions.
+By using Lean, you agree that you hold responsibility and accountability of any consequences caused by your actions.
 
 
 # Contact
 
-* @_ny2
+Discord: * @275n
 
-* discord.gg/clod
+Server: * discord.gg/clod
